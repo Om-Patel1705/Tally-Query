@@ -18,7 +18,7 @@ Tally-query/
 │   ├── requirements.txt              # Python dependencies
 │   └── .env                          # Environment variables
 │
-├── Figma-Exported-Tally-Frontend/   # React frontend
+├── frontend/   # React frontend
 │   ├── src/
 │   │   ├── app/
 │   │   │   ├── components/          # React components
@@ -38,6 +38,15 @@ Tally-query/
 - **Git**
 
 ## Getting Started
+
+### Clone the Repository
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/Om-Patel1705/Tally-Query.git
+```
+
 
 ### Backend Setup
 
