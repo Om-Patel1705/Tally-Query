@@ -1,5 +1,11 @@
 # Tally Query
 
+## Live Demo
+
+- 🌐 **Frontend:** https://tally-query-frontend.onrender.com/
+- ⚙️ **Backend API (Swagger):** https://tally-query-backend.onrender.com
+- 🎥 **Demo Video:** https://drive.google.com/file/d/148qE4KI4xjr3W1oFLQwPOvHQb8pY0jx0/view?usp=sharing
+
 A full-stack application combining React frontend with FastAPI backend for intelligent query processing and data analysis.
 
 ## Project Structure
