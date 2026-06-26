@@ -103,7 +103,7 @@ git clone https://github.com/Om-Patel1705/Tally-Query.git
 3. Configure environment variables:
    - Create `.env` file with:
      ```
-     VITE_API_URL=http://localhost:5000
+     VITE_API_BASE_URL=http://localhost:5000
      ```
 
 4. Start the development server:
