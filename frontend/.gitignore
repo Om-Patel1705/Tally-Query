@@ -1,0 +1,74 @@
+# Python Backend (.venv, dependencies, caches)
+backend/__pycache__/
+backend/*.py[cod]
+backend/*$py.class
+backend/*.so
+backend/.Python
+backend/build/
+backend/develop-eggs/
+backend/dist/
+backend/downloads/
+backend/eggs/
+backend/.eggs/
+backend/lib/
+backend/lib64/
+backend/parts/
+backend/sdist/
+backend/var/
+backend/wheels/
+backend/pip-wheel-metadata/
+backend/share/python-wheels/
+backend/*.egg-info/
+backend/.installed.cfg
+backend/*.egg
+backend/MANIFEST
+backend/.pytest_cache/
+backend/.coverage
+backend/htmlcov/
+backend/.tox/
+backend/.nox/
+backend/.hypothesis/
+backend/venv/
+backend/ENV/
+backend/env/
+backend/.venv
+backend/.env
+backend/.env.local
+backend/.env.*.local
+
+# FastAPI/Uvicorn
+backend/.uvicorn_installed
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.vim/
+.netrwhist
+
+# OS
+Thumbs.db
+.DS_Store
+*.log
+
+# Project-specific
+uploads/
+temp/
+.cache/
+*.db
+*.sqlite
+*.sqlite3
+
+# OS temp files
+$RECYCLE.BIN/
+ehthumbs.db
+
+# Misc
+.env.test
+.env.production.local
+*.pem
